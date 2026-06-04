@@ -4,7 +4,7 @@ This project was developed as part of the hackathon **"Pixel - tse rozlyuchena v
 
 **Team:** 
 * Volodymyr Fufalko
-* Andriy Oliynyk
+* Andrii Oliinyk
 * Zakhar Savchyn
 * Ivan Varvaruk
 

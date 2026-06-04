@@ -1,6 +1,6 @@
 /**
  * @file main.ino
- * @author Volodymyr Fufalko for hackathon "Pixel - tse rozlyuchena vyshyvanka" (in team with Andriy Oliynyk, Zakhar Savchyn, Ivan Varvaruk)
+ * @author Volodymyr Fufalko for hackathon "Pixel - tse rozlyuchena vyshyvanka" (in team with Andrii Oliinyk, Zakhar Savchyn, Ivan Varvaruk)
  * @date 21.05.2026
  * @brief High-speed object detection and initialization system using VL53L0X and a tripwire fallback.
  * 
