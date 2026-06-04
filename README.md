@@ -1,6 +1,6 @@
 # Intelligent Initialization System
 
-This project was developed as part of the hackathon **"Pixel - tse rozlyuchena vyshyvanka"** ("Pixel is an angry vyshyvanka").
+This project was developed as part of the hackathon **"Pixel - tse rozlyuchena vyshyvanka"**
 
 **Team:** 
 * Volodymyr Fufalko
