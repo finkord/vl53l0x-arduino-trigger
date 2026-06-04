@@ -1,4 +1,4 @@
-# Intelligent Initialization System ("Pixel - tse rozlyuchena vyshyvanka")
+# Intelligent Initialization System
 
 This project was developed as part of the hackathon **"Pixel - tse rozlyuchena vyshyvanka"** ("Pixel is an angry vyshyvanka").
 
